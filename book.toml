@@ -6,4 +6,4 @@ language = "pt-br"
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://github.com/lucas-rabello-dev"
+git-repository-url = "https://github.com/lucas-rabello-dev/rumo-ao-gentoo"

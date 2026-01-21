@@ -1,10 +1,10 @@
 # Introdução
 
-Este [mdbook](https://github.com/rust-lang/mdBook) está sendo desenvolvido com o propósito de ajudar pessoas interessadas no tema OS (Operational Systems, Sistemas Operacionais) e [eu](https://github.com/lucas-rabello-dev), este livro terá minhas anotações e minha trajetória no tema, eu pretendo aprender sobre [Gentoo Linux](https://www.gentoo.org/) e [Void Linux](https://voidlinux.org/) principalmente.
+Este [mdbook](https://github.com/rust-lang/mdBook) está sendo desenvolvido com o propósito de [me](https://github.com/lucas-rabello-dev) ajudar e ajudar outras pessoas interessadas no tema OS (Operational Systems, Sistemas Operacionais) e Linux, sendo mais preciso o gentoo, este livro terá minhas anotações e minha trajetória no tema, eu pretendo aprender sobre [Gentoo Linux](https://www.gentoo.org/) e [Void Linux](https://voidlinux.org/) principalmente.
 
 ## Por quê Gentoo e Void?
 
-Eu acretido que essas duas distribuições linux tenham tudo que preciso para que eu possa estudar e entender sobre OS.
+Eu acredito que essas duas distribuições linux tenham tudo que preciso para que eu possa estudar e entender sobre OS.
 
 Claro que isso não foi um ótimo motivo, no entando eu não tenho experiência o suficiente para opinar sobre as distros, pelo menos
 atualmente.

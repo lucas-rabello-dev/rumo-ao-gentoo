@@ -39,3 +39,31 @@ func OS(jobs ...Writer) {
 Exercendo essa prática as CPUs ficavam ociosas pelo fato de que os dispositivos mecânicos (I/O nesse caso) eram extremamente mais lentos do que os dispositivos eletrônicos (CPU). Mesmo uma CPU lenda ainda sim era capaz de executar milhões de instruções por segundo.
 
 Com os avanços tecnológicos e melhorias resultou em dispositivos I/O mais rápidos, porém a velocidade das CPUs também aumentaram, com isso o problema não só não foi resolvido mas também foi exarcebado.
+
+## A Chegada dos Discos
+
+A chegada dos discos permitiu com que o sistema operacional pudesse manter os `jobs` em disco, antes ficava em uma **leitora de cartões serial¹**. Com isso o **escalonamento de jobs²** poderia ser usado para realizar tarefas de forma mais eficiente.
+
+Por falar em eficiência, o aspecto mais importante do escalonamento de jobs é a capacidade de `multiprogramação`.
+
+Um único usuário não pode, na maioria dos casos, manter a CPU ou os dois dispositivos I/O ocupados em todos os momentos. A multiprogramação aumenta a utilização da CPU organizando os jobs de forma que a CPU sempre tenha um job para executar, consequêntemente evitando de deixar a CPU ociosa.
+
+|Representação|
+|:---------------------------:|
+|Sistema Operacional          |
+|⬆️                           |
+|Job 1                        |
+|⬆️                           |
+|Job 2                        |
+|⬆️                           |
+|Job 3                        |
+|⬆️                           |
+|Job 4                        |
+|⬆️                           |
+|Job 5                        |
+
+
+
+> 1. Dispositivo de entrada usado para ler cartões perfurados e enviar os dados ao computador por uma interface serial.
+>
+> 2. Processo de decidir a ordem, momento e quanto tempo cada job vai usar os recursos do sistema.

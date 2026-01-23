@@ -4,6 +4,8 @@
 
 Em poucas palavras um Sistema Operacional é um programa que atua entre o usuário e o hardware. Seu propósito é fornecer um ambiente no qual o usuário possa executar programas.
 
+> Ele foi desenvolvido com o propósito de facilitar o uso do hardware.
+
 Uma visão simples:
 
 |Representação|

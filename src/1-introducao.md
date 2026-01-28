@@ -10,7 +10,16 @@ Claro que isso não foi um ótimo motivo, no entando meu pensamento sobre essas 
 
 Minha trágetoria será a seguinte:
 
-**Estudar a base sobre OS -> Arch Linux -> Void Linux -> Gentoo Linux** 
+~~Estudar a base sobre OS -> Arch Linux -> Void Linux -> Gentoo Linux~~
+
+**Estudar a base sobre OS -> Gentoo**
+
+Por que eu decidi fazer isso?
+Gentoo é meu objetivo, eu quero usar ele como sistema principal, logo preciso ser rápido.
+
+O que eu vou aprender no Gentoo além de ser coisas parecidas nas outras distros serão coisas mais profundas.
+
+Caso você queria aprender na ordem antiga, sinta-se a vontade!
 
 ## O que eu espero dessas distros?
 

@@ -5,7 +5,3 @@
 - [Sistemas Operacionais](./2-sistemas_operacionais.md)
     - [Sistemas em lote (batch)](./2-01-sistemas_batch.md)
     - [Sistemas de Tempo Compartilhado](./2-02-sistemas_compartilhados.md)
-- [Experiência Com o Void Linux](./experiencia_void_linux.md)
-    - [Instalei o void (installer)](./experiencia_void_linux-1.md)
-- [Instalando ele na mao](./instalando_na_mao.md)
-    - [Particionamento e formatacao dos discos](./particionamento_e_formatacao.md)

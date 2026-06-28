@@ -1,16 +1,10 @@
 <div align="center"> 
-    <h1> rumo-ao-gentoo </h1>
-    <img src="./images/gentoo.png" width="230px">
+    <h1> Guia de Sistemas Operacionais </h1>
+    <img src="./images/humor_tux_windows.jpg" width="230px">
 </div>
 
-"rumo-ao-gentoo" é um [mdbook](https://github.com/rust-lang/mdBook) que foi criado com o propósito de me ajudar e ajudar outras pessoas sobre "Sistemas Operacionais", porém com o foco sendo em [Gentoo linux](https://www.gentoo.org/)
+"Guia de Sistemas Operacionais" é um [mdbook](https://github.com/rust-lang/mdBook) que está sendo escrito com o propósito de ajudar pessoas interessadas sobre o tema "Sistemas Operacionais". Além de abordar a parte teórica terá estudos de caso do Linux e Windows e Desenvolvimentos de Sistemas Operacionais (OSDEV).
 
-Eu irei escrever aqui minhas anotações de estudo durante minha tragetória
-
-## Site:
+## Web Site:
 
 [clique aqui](https://t3cl4do820.github.io/rumo-ao-gentoo/)
-
-## Contribua
-
-Contribua com o seu conhecimento e ajude a todos que leem este mdbook, faça uma pull [request](https://github.com/lucas-rabello-dev/rumo-ao-gentoo/pulls)

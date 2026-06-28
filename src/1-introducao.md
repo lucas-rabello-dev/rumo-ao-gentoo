@@ -1,49 +1,5 @@
 # Introdução
 
-Este [mdbook](https://github.com/rust-lang/mdBook) está sendo desenvolvido com o propósito de [me](https://github.com/lucas-rabello-dev) ajudar e ajudar outras pessoas interessadas no tema OS (Operational Systems, Sistemas Operacionais) e Linux, sendo mais preciso o gentoo, este livro terá minhas anotações e minha trajetória no tema, eu pretendo aprender sobre [Arch Linux](https://archlinux.org/), [Void Linux](https://voidlinux.org/) e [Gentoo Linux](https://www.gentoo.org/).
+Este [mdbook](https://github.com/rust-lang/mdBook) está sendo desenvolvido com o propósito de ajudar estudantes interessadas no tema "Sistemas Operacionais", eu vou escrever neste guia o máximo de informações possível sobre SO.
 
-## Por quê essas distros?
-
-Eu acredito que essas distribuições linux tenham tudo que preciso para que eu possa estudar e entender sobre OS e me aprofundar no mundo linux.
-
-Claro que isso não foi um ótimo motivo, no entando meu pensamento sobre essas distros é ir da mais "fácil" até a mais difícil.
-
-Minha trágetoria será a seguinte:
-
-**Estudar a base sobre OS -> Arch Linux (opcional) -> Void Linux -> Gentoo Linux**
-
-
-## O que eu espero dessas distros?
-
-- Arch Linux: Aprender a instalar do zero, desde o particionamento dos discos até a instalação da interface gráfica.
- 
-- Void Linux: Usar um sistema sem systemD, usando runit, sem abstrações pesadas.
-
-- Gentoo Linux: Aprender sobre compilação, useflags, montar a toolchain.
-
-## Materiais
-
-Eu irei tentar adicionar aqui a maioria dos vídeos, artigos, etc que eu encontrar.
-
-Vídeos:
-
-- [Fabio Akita - Como Funciona o Boot de um Linux? | O que tem num LiveCD?](https://www.youtube.com/watch?v=5F6BbhgvFOE)
-
-- [Fabio Akita - Apanhando do Gentoo | Melhor Linux???](https://www.youtube.com/watch?v=cSyTjCUFx2A)
-
-Documentação:
-
-- [Gentoo Linux](https://www.gentoo.org/)
-
-- [Void Linux](https://voidlinux.org/)
-
-- [Arch Linux](https://archlinux.org/)
-
-
-Wiki:
-
-- [OS DEV WIKI](https://osdev.wiki/wiki/Expanded_Main_Page)
-
-Livros:
-
-- [Sistemas Operacionais Conceitos e Aplicações](https://www.amazon.com.br/Sistemas-Operacionais-Abraham-Galvin-Silberschatz/dp/8535207198)
+Aqui terá estudos de caso sobre Linux e Windows e conteúdos sobre OSDEV (Desenvolvimento de Sistemas Operacionais).

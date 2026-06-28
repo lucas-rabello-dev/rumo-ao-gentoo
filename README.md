@@ -7,4 +7,4 @@
 
 ## Web Site:
 
-[clique aqui](https://t3cl4do820.github.io/rumo-ao-gentoo/)
+[clique aqui](https://t3cl4do820.github.io/guia-sistemas-operacionais/)
